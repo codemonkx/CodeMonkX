@@ -26,3 +26,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithinx02&show_icons=true&theme=transparent)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/nithinx02/nithinx02/blob/output/github-snake-dark.svg)
+
+[![My Skills](https://skillicons.dev/icons?i=java,css3,html5,figma,flutter&perline=3)](https://skillicons.dev)
