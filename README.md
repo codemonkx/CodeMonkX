@@ -14,5 +14,5 @@
 
 ![snake gif](https://github.com/nithinx02/nithinx02/blob/output/github-contribution-grid-snake.gif)
  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithinx02&show_icons=true&theme=transparent)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
