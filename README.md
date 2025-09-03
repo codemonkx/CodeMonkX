@@ -15,16 +15,18 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/madara.exee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-devigner/) 
+ <a href="https://discord.com/users/madara.exee">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+<a href="https://linkedin.com/in/nithin-devigner/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 # 💻 Tech Stack:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="https://www.figma.com/files/team/1475185923876823825/recents-and-sharing?fuid=1474709205788144145" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=java,figma,html,css,git)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithinx02&show_icons=true&theme=transparent)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/nithinx02/nithinx02/blob/output/github-snake-dark.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=java,css3,html5,figma,flutter&perline=3)](https://skillicons.dev)
+
