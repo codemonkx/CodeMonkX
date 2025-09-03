@@ -25,4 +25,4 @@
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithinx02&show_icons=true&theme=transparent)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitHub Snake SVG](https://raw.githubusercontent.com/nithinx02/nithinx02/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
