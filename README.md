@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nithinx02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinx02&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![snake gif](https://github.com/nithinx02/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nithinx02/nithinx02/blob/output/github-contribution-grid-snake.svg)
  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
