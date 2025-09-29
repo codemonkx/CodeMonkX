@@ -3,9 +3,9 @@
 
 🎓I’m a Student currently exploring programming and design  <br>
 
-🌱 I’m learning Java, UI/UX design, and problem-solving skills  <br>
+🌱 I’m learning Java and problem-solving skills  <br>
 
-💻 Technologies I’ve worked with: Java, HTML, CSS, Git, Figma  <br>
+💻 Technologies I’ve worked with: HTML, CSS, Git, Figma  <br>
 
 🚀 My goal is to become a Successful programmer  and contribute to impactful projects  <br>
 
