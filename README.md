@@ -1,6 +1,4 @@
 # 💫 About Me:
-👋 My name is Nithin E  <br>
-
 🎓I’m a Student currently exploring programming and design  <br>
 
 🌱 I’m learning Java and problem-solving skills  <br>
