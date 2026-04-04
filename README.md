@@ -1,9 +1,7 @@
 # 💫 About Me:
 🎓I’m a Student currently exploring programming and design  <br>
 
-🌱 I’m learning Java and problem-solving skills  <br>
-
-💻 Technologies I’ve worked with: HTML, CSS, Git, Figma  <br>
+🌱 I’m learning Python and Rust  <br>
 
 🚀 My goal is to become a Successful programmer  and contribute to impactful projects  <br>
 
