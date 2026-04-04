@@ -19,7 +19,7 @@
 </a>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,figma,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,html,css,git)](https://skillicons.dev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/nithinx02/nithinx02/blob/output/github-snake-dark.svg)
